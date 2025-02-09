@@ -71,3 +71,8 @@ li {
 .text a:hover {
     background-color: red;
 }
+.text h1 {
+  font-size: 75px;
+  font-weight: bold;
+  font-family: "Comfortaa", serif;
+}
